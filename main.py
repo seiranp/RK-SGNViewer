@@ -1,4 +1,4 @@
-#  TODO    implemented
+#  TODO    implemented just for check
 #  TODO    run_CSF doesn't clean after long records
 
 # import easygui
